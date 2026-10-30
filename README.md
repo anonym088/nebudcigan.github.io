@@ -16,3 +16,9 @@ Je to stín. Je to jméno, které si zapamatujete.<br><br>
 
 B15 – VE TMĚ ZAČÍNÁ PŘÍBĚH.
 </p>
+<a href="https://discord.gg/om3yA7fSew"
+   class="button"
+   target="_blank"
+   rel="noopener noreferrer">
+   VSTOUPIT NA DISCORD
+</a>
